@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target generate_camera_info[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/generate_camera_info.dir/tests/generate_camera_info.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/harun/tello_ws/devel/.private/camera_info_manager_py/lib/camera_info_manager_py/generate_camera_info[0m
+[100%] Built target generate_camera_info

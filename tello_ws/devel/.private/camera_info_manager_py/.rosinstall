@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/harun/tello_ws/devel/.private/camera_info_manager_py/setup.sh

@@ -1,0 +1,6 @@
+devel_space: /home/harun/tello_ws/devel
+install: false
+install_space: /home/harun/tello_ws/install
+profile: default
+source_space: /home/harun/tello_ws/src
+workspace: /home/harun/tello_ws

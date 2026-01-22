@@ -35,6 +35,7 @@ mkdir -p ~/tello_ws/src
 cd ~/tello_ws/src
 # Repoyu klonlayın (klasör yapısına dikkat edin)
 git clone https://github.com/HaruunGNY/ROS1-driver-and-application-for-Tello.git
+*
 catkin_make
 source devel/setup.bash
 ```

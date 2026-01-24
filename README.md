@@ -109,7 +109,10 @@ Sistemin fiziksel ortamdaki kararlılığı, kalkış/iniş manevraları ve game
 
 
 
-https://github.com/user-attachments/assets/83d9b57d-58dd-48e1-8f54-0fc112df290d
+
+
+https://github.com/user-attachments/assets/b386914a-c32d-4e58-81cb-5b1a752b93e8
+
 
 
 ---

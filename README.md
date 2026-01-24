@@ -100,7 +100,10 @@ Bu bölümde sistemin uçuş performansı ve ROS üzerinden işlenen kamera veri
 Aşağıdaki video, Tello'nun onboard kamerasından alınan görüntünün `/tello/image_raw` topic'i üzerinden ROS ekosistemine aktarılmış halidir.
 
 
-https://github.com/user-attachments/assets/f76d89b6-2894-40a5-88b8-8bcee952149c
+
+
+https://github.com/user-attachments/assets/327ea071-0ca7-4016-be3c-961d400ad3d1
+
 
 
 
